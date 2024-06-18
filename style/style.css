@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('/pexels-pixabay-531880.jpg');
+  background-image: url('/pexels-pixabay-531880.jpg');
   background-size: cover;
   background-position: center;
 }
